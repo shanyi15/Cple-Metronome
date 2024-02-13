@@ -58,7 +58,7 @@ Brew install portlib
 ```
 
 ## Compilation and Linking
-`Build.sh`` can be directly used to compile and link the program on the OS X platform. Or we can also use
+`Build.sh` can be directly used to compile and link the program on the OS X platform. Or we can also use
 the following command line to compile:
 ```
 gcc -Wall -o metronome metronome.c paUtils.c \
