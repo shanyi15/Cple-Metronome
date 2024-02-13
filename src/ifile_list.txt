@@ -1,0 +1,2 @@
+./signals/sig1.wav
+./signals/sig2.wav
