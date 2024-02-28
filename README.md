@@ -1,5 +1,8 @@
 # Cple Metronome
 ## Description
+
+![Example](./img/example.gif)
+
 This program is a simple metronome. Users can define beats per minute, beats per measure, and the upbeat/downbeat sound from the command line first.
 
 Beats per minute(BPM) is a term used to describe the tempo. Beats per measure is another term, meaning the number of beats in every “loop”. The downbeat is commonly the first beat in each measure. The upbeat sound is the one that sounds lighter. For example, if a user sets beats per measure as three, then there will be a loop with one time downbeat and two times upbeat. The metronome is a very useful tool and can be used in music instrument practicing.
